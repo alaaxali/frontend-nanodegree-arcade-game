@@ -1,5 +1,4 @@
 
-
 # Classic Arcade Game Clone
 
 ## Table of Contents
